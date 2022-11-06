@@ -1,0 +1,17 @@
+
+
+
+@media only screen and ( max-width: 500px){
+    body{
+        background-color: blueviolet;
+    }
+}
+
+#welcome-section{
+    height: 100vh;
+}
+#navbar{
+    position : absolute;
+    top : 0px;
+    background-color: aqua;
+}
